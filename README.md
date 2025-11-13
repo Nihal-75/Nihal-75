@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Blood Link](Blood Link)
 
-- 📫 How to reach me **shivam6386000621@gmail.com**
+- 📫 How to reach me **nihalpandey636@gmail.com**
 
 - 📄 Know about my experiences [ResumeLink](ResumeLink)
 
