@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
+<h1 align="center">Hi 👋, I'm Nihal Pandey</h1>
 <h3 align="center">I’m a Full Stack Developer passionate about building scalable web applications and intuitive user experiences. 💡 Skilled in React, Node.js, Express, MongoDB, and MySQL. 🚀 Love exploring Next.js and Cloud technologies. 📚 Always learning and open to collaboration on exciting projects.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/HqWU6NTLNLzg2Qf5rH/giphy.gif">
@@ -11,7 +11,7 @@
 
 - 🤝 Client Project [Pathology Management System](https://pathology-project-h8k5.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://portfolios-ss-projects-38a3890a.vercel.app/](https://portfolios-ss-projects-38a3890a.vercel.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 📝 I regularly write articles on [Blood Link](Blood Link)
 
