@@ -10,6 +10,7 @@
 - 👯 I’m Currently Workin **Blood Bank System**
 
 - 🤝 Client Project [Pathology Management System](https://pathology-project-h8k5.vercel.app/)
+- 🤝 Client Project [Smart_Education_System](https://nexa-learn-fawn.vercel.app/)
 
 - 👨‍💻 All of my projects are available at 
 
