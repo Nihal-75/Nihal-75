@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **nihalpandey636@gmail.com**
 
-- 📄 Know about my experiences [ResumeLink](file:///C:/Users/nihal/Desktop/MERN_STACK%20RESUME.pdf/)
+- 📄 Know about my experiences [ResumeLink](RSesumelink)
 
 - ⚡ Fun fact **I am Funny 😂😂**
 
