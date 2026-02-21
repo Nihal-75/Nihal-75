@@ -14,7 +14,7 @@
 - 🤝 Client Project [Blood_Bank_System](https://blood-bank-gk62.vercel.app/)
 - 🤝 Client Project [Car_Salse_Survices](https://car-sales-frontend-xi.vercel.app/)
 - 🤝 Client Project [Portfolio_Full_Stack_Developer](https://portfolio-developer-sage.vercel.app/)
-- - 🤝 Project [VibeLearn](https://le-delta-five.vercel.app/)
+- 🤝 Project [VibeLearn](https://le-delta-five.vercel.app/)
 
 
 - 👨‍💻 All of my projects are available at 
