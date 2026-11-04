@@ -1,41 +1,119 @@
-<h1 align="center">Hi 👋, I'm Nihal Pandey</h1>
-<h3 align="center">I’m a Full Stack Developer passionate about building scalable web applications and intuitive user experiences. 💡 Skilled in React, Node.js, Express, MongoDB, and MySQL. 🚀 Love exploring Next.js and Cloud technologies. 📚 Always learning and open to collaboration on exciting projects.</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/HqWU6NTLNLzg2Qf5rH/giphy.gif">
+👋 Hey, I'm Nihal Pandey
+💻 Full Stack Developer | ☁️ DevOps Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-75&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-75" /> </p>
+<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;DevOps+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+<p> <img src="https://komarev.com/ghpvc/?username=Nihal-75&label=Profile%20Views&color=00D9FF&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/Nihal-75?label=Followers&style=for-the-badge&color=blue" /> </p>
 
-- 👯 I’m Currently Workin **Blood Bank System**
+</div>
 
-- 🤝 Client Project [Pathology Management System](https://pathology-project-h8k5.vercel.app/)
-- 🤝 Client Project [Smart_Education_System](https://nexa-learn-fawn.vercel.app/)
-- 🤝 Client Project [Blood_Bank_System](https://blood-bank-gk62.vercel.app/)
-- 🤝 Client Project [Car_Salse_Survices](https://car-sales-frontend-xi.vercel.app/)
-- 🤝 Client Project [Portfolio_Full_Stack_Developer](https://portfolio-developer-sage.vercel.app/)
-- 🤝 Project [VibeLearn](https://le-delta-five.vercel.app/)
+🚀 About Me
 
+<img align="right" width="350" src="https://media2.giphy.com/media/HqWU6NTLNLzg2Qf5rH/giphy.gif" />
 
-- 👨‍💻 All of my projects are available at 
+I'm Nihal Pandey, a passionate Full Stack Developer and aspiring DevOps Engineer who loves building modern, scalable, and user-friendly applications.
 
-- 📝 I regularly write articles on [Blood Link](Blood Link)
+💻 Specialized in Full Stack Web Development.
+⚡ Experienced with React.js, Node.js, Express.js & MongoDB.
+☁️ Exploring DevOps, Cloud Computing & Deployment.
+🐳 Learning Docker, Linux, CI/CD & Cloud Technologies.
+📱 Exploring React Native and Next.js.
+🔭 Currently working on Blood Bank Management System.
+🤝 Interested in Open Source and collaborative projects.
+🎯 Goal: Build scalable applications and become a skilled DevOps Engineer.
 
-- 📫 How to reach me **nihalpandey636@gmail.com**
+<br clear="right"/>
 
-- 📄 Know about my experiences [ResumeLink](https://portfolio-developer-sage.vercel.app/MERN_STACK%20RESUME.pdf)
+🛠️ Tech Stack & Tools
+🎨 Frontend Development
 
-- ⚡ Fun fact **I am Funny 😂😂**
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+⚙️ Backend Development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,java" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-75&show_icons=true&locale=en&layout=compact" alt="Nihal-75" /></p>
+🗄️ Database
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nihal-75&show_icons=true&locale=en" alt="Nihal-75" /></p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nihal-75&" alt="Nihal-75" /></p>
+☁️ DevOps & Cloud
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=linux,docker,git,github,aws,bash" /> </p>
+
+🔧 Development Tools
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=vscode,postman,figma,github" /> </p>
+
+🌟 Featured Projects
+
+Here are some projects I've worked on:
+
+Project	Description	Live Demo
+🏥 Pathology Management System	Pathology management web application	View Project
+🎓 Smart Education System	Smart learning and education platform	View Project
+🩸 Blood Bank System	Blood donation and blood bank management	View Project
+🚗 Car Sales Services	Car sales management platform	View Project
+💼 Developer Portfolio	Personal Full Stack Developer portfolio	View Project
+📚 VibeLearn	Online learning platform	View Project
+📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nihal-75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-75&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Nihal-75&theme=tokyonight&hide_border=true" />
+
+</div>
+
+🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nihal-75&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+</div>
+
+📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nihal-75&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:nihalpandey636@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
+<a href="https://github.com/Nihal-75"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+<a href="https://portfolio-developer-sage.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" /> </a>
+
+</div>
+
+📄 Resume
+
+<div align="center">
+
+<a href="https://portfolio-developer-sage.vercel.app/MERN_STACK%20RESUME.pdf"> <img src="https://img.shields.io/badge/View_My_Resume-Download_CV-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a>
+
+</div>
+
+<div align="center">
+
+💡 "Code. Build. Deploy. Repeat."
+
+Thanks for visiting my profile! Let's build something amazing together. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
+
+</div>
