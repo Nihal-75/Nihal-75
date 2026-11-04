@@ -1,247 +1,165 @@
 <div align="center">
 
-<!-- PREMIUM HERO BANNER - MOBILE ADJUSTED -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=380&text=NIHAL%20PANDEY&fontSize=55&fontColor=FFFFFF&color=0:050816,45:102A43,100:7C3AED&stroke=00D9FF&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENGINEER%20%7C%20ANDROID%20DEVELOPER&descSize=12&descAlignY=72"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=340&text=NIHAL%20PANDEY&fontSize=55&fontColor=FFFFFF&color=0:050816,45:102A43,100:7C3AED&stroke=00D9FF&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=FULL%20STACK%20%7C%20DEVOPS%20%7C%20ANDROID%20DEVELOPER&descSize=15&descAlignY=73"/>
 
 <br/>
 
-<a href="https://github.com/Nihal-75">
-<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
-</a>
-<a href="mailto:nihalpandey636@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-<a href="https://portfolio-developer-sage.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-</a>
+<a href="https://github.com/Nihal-75"><img src="https://img.shields.io/badge/GITHUB-Profile-111827?style=for-the-badge&logo=github&logoColor=00D9FF"/></a>
+<a href="mailto:nihalpandey636@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://portfolio-developer-sage.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+%26+Cloud+Engineering+%E2%98%81%EF%B8%8F;Android+Application+Developer+%F0%9F%93%B1;Building+Scalable+Digital+Experiences+%F0%9F%9A%80;Turning+Ideas+Into+Real+Products+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=19&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;DevOps+%26+Cloud+Engineer;Android+Application+Developer;Building+Scalable+Digital+Products"/>
 
-<br/><br/>
-
-### BUILDING DIGITAL EXPERIENCES THAT MATTER.
-
-`DEVELOP` • `AUTOMATE` • `DEPLOY` • `INNOVATE`
+### ✦ CODE • CREATE • DEPLOY • INNOVATE ✦
 
 </div>
 
 ---
 
-# 👨‍💻 ABOUT ME
+# 01. 👨‍💻 ABOUT ME
 
-<img align="right" width="180" src="https://media2.giphy.com/media/HqWU6NTLNLzg2Qf5rH/giphy.gif"/>
-
-### Hi, I'm Nihal Pandey! 👋
+### Hi, I'm Nihal Pandey!
 
 **Full Stack Developer | DevOps Engineer | Android Developer**
 
-I'm a BCA graduate and passionate software developer focused on building modern web applications, scalable backend systems, mobile experiences and reliable deployment workflows.
+I'm a BCA graduate and software developer passionate about building modern web applications, scalable backend systems and mobile applications.
 
-My development journey revolves around solving real-world problems through technology. I enjoy taking an idea from concept to production — designing intuitive user interfaces, developing secure REST APIs, managing databases and deploying applications.
+I enjoy transforming ideas into real-world digital products through clean code, modern technologies and innovative engineering solutions.
 
-I have hands-on experience working with the MERN stack and developing real-world management systems, QR-based solutions and AI-integrated applications.
+My experience includes developing MERN stack applications, management systems, QR-based platforms and AI-integrated solutions.
 
-### What I Bring to the Table
+### My Expertise
 
-- 💻 Full Stack Web Application Development
-- ⚡ MERN Stack & REST API Engineering
-- 📱 Android & Cross-Platform Development
-- ☁️ DevOps & Cloud Infrastructure
-- 🐳 Linux, Docker & Deployment Workflows
-- 🔄 CI/CD & Version Control
-- 🤖 AI Integration & Workflow Automation
-- 🗄️ Database Design & Management
+- 💻 Full Stack Web Development
+- ⚡ MERN Stack Development
+- 📱 Android & React Native Development
+- ☁️ DevOps & Cloud Engineering
+- 🐳 Linux & Docker
+- 🔄 CI/CD & Deployment
+- 🤖 AI Integration & Automation
+- 🗄️ Database Management
 
-### My Current Focus
-
-Exploring advanced DevOps practices, cloud infrastructure, Android development and scalable software architecture.
-
-<br clear="right"/>
+**My Goal:** Build scalable applications, automate workflows and continuously grow as a software engineer.
 
 ---
 
-# 🚀 PROFESSIONAL IDENTITY
+# 02. 🚀 PROFESSIONAL EXPERTISE
 
 <div align="center">
 
-### THREE DOMAINS. ONE DEVELOPMENT MINDSET.
+| 💻 FULL STACK | ☁️ DEVOPS | 📱 ANDROID |
+|:---:|:---:|:---:|
+| React.js | Linux | React Native |
+| Node.js | Docker | Java |
+| Express.js | AWS | Kotlin |
+| MongoDB | CI/CD | Android |
+| REST APIs | GitHub Actions | API Integration |
 
 </div>
 
-### 01. 💻 Full Stack Development
-
-Building end-to-end web applications with modern frontend technologies and scalable backend architectures.
-
-**Core Technologies:**
-
-`React.js` `Next.js` `Node.js` `Express.js` `MongoDB` `MySQL`
-
-### 02. ☁️ DevOps Engineering
-
-Exploring infrastructure automation, containerization, cloud deployment and modern software delivery practices.
-
-**Core Technologies:**
-
-`Linux` `Docker` `AWS` `Git` `GitHub Actions` `CI/CD`
-
-### 03. 📱 Android Development
-
-Developing modern mobile experiences using React Native and exploring native Android technologies.
-
-**Core Technologies:**
-
-`React Native` `Java` `Kotlin` `Android`
-
 ---
 
-# 🛠️ TECHNICAL SKILLS
+# 03. 🛠️ TECHNICAL SKILLS
 
 ### 🎨 Frontend Development
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark"/>
-
 </div>
 
 ### ⚙️ Backend Development
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,python&theme=dark"/>
-
 </div>
 
-### 📱 Android & Mobile Development
+### 📱 Android Development
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=react,kotlin,java,android&theme=dark"/>
-
 </div>
 
-### 🗄️ Database Technologies
+### 🗄️ Database
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark"/>
-
 </div>
 
-### ☁️ DevOps & Cloud Engineering
+### ☁️ DevOps & Cloud
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,bash,githubactions,git,github&theme=dark"/>
-
 </div>
 
-### 🔧 Developer Tools
+### 🔧 Development Tools
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,git,github&theme=dark"/>
-
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm&theme=dark"/>
 </div>
 
 ---
 
-# 🏆 FEATURED PROJECTS
-
-<div align="center">
-
-### REAL-WORLD APPLICATIONS & DEVELOPMENT WORK
-
-</div>
+# 04. 🏆 FEATURED PROJECTS
 
 ### 🩸 01. Blood Bank Management System
 
-A digital platform designed to streamline blood donation management, donor information and blood availability.
+A digital platform for managing blood donors, blood groups and donation records.
 
-**Key Features:**
-- Donor Management
-- Blood Group Management
-- Donation Records
-- Administrative Dashboard
+**Features:** Donor Management • Blood Availability • Admin Dashboard
 
-**Tech Stack:** `React` `Node.js` `Express` `MongoDB`
+`MERN Stack` `MongoDB` `REST API`
 
 ---
 
 ### 🏥 02. Pathology Management System
 
-A complete web-based pathology solution designed to manage patient records, laboratory operations and reports.
+A web-based pathology management solution for managing patients, tests and laboratory reports.
 
-**Key Features:**
-- Patient Management
-- Test Management
-- Report Management
-- Admin Dashboard
+**Features:** Patient Records • Test Management • Report Management
 
-**Tech Stack:** `MERN Stack` `Tailwind CSS` `MongoDB`
+`React` `Node.js` `Express` `MongoDB`
 
 ---
 
 ### 🎓 03. College ERP Management System
 
-A centralized educational management system designed to simplify college administration and academic operations.
+A centralized college management platform for managing educational and administrative operations.
 
-**Key Features:**
-- Admission Management
-- Faculty Management
-- Hostel & Library Management
-- Fee & Accounts Management
-- Excel Data Upload
+**Features:** Admission • Fees • Faculty • Hostel • Library • Accounts
 
-**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
+`MERN Stack` `Tailwind CSS`
 
 ---
 
 ### 🚪 04. AI-Based Gate Entry QR System
 
-A smart QR-based entry management system with registration, OTP verification and face recognition integration.
+A smart entry management platform with QR registration and verification.
 
-**Key Features:**
-- QR Code Generation
-- OTP Verification
-- Face Recognition Integration
-- Entry Management
+**Features:** QR Generation • OTP Verification • Face Recognition Integration
 
-**Tech Stack:** `MERN Stack` `QR Code` `AI Integration`
+`MERN Stack` `QR Code` `AI Integration`
 
 ---
 
 ### 🍽️ 05. Food Coupon QR System
 
-A digital food coupon management solution that simplifies student food distribution through QR-based verification.
+A digital food coupon platform with QR scanning and student verification.
 
-**Key Features:**
-- Digital QR Coupons
-- Vendor Scanner
-- Three-Scan Usage Restriction
-- Student Verification
-- Face Detection Integration
+**Features:** Digital Coupons • Vendor Scanner • Three-Scan Restriction
 
-**Tech Stack:** `MERN Stack` `QR Code` `AI Integration`
+`MERN Stack` `QR Code` `AI Integration`
 
 ---
 
 ### 💼 06. Job Portal Application
 
-A full-stack job portal connecting candidates and recruiters through an organized recruitment workflow.
+A recruitment platform connecting candidates and recruiters.
 
-**Key Features:**
-- Job Search & Applications
-- Candidate Management
-- Admin Dashboard
-- Interview Scheduling
+**Features:** Job Search • Applications • Admin Dashboard • Interview Scheduling
 
-**Tech Stack:** `React.js` `Node.js` `MongoDB` `JWT`
-
----
+`React` `Node.js` `MongoDB` `JWT`
 
 <div align="center">
 
@@ -253,25 +171,19 @@ A full-stack job portal connecting candidates and recruiters through an organize
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 05. 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-### My Development Statistics
-
-<br/>
+### DEVELOPMENT STATISTICS
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nihal-75&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github"/>
 
-<br/><br/>
-
-### Most Used Languages
+### MOST USED LANGUAGES
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-75&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF"/>
 
-<br/><br/>
-
-### Contribution Streak
+### CONTRIBUTION STREAK
 
 <img width="100%" src="https://streak-stats.demolab.com?user=Nihal-75&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF"/>
 
@@ -279,74 +191,74 @@ A full-stack job portal connecting candidates and recruiters through an organize
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+# 06. 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nihal-75&bg_color=050816&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nihal-75&bg_color=050816&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=NIHAL%20PANDEY%20DEVELOPMENT%20ACTIVITY"/>
 
 </div>
 
 ---
 
-# 🎯 CURRENT LEARNING & GROWTH
+# 07. 🎯 CURRENT LEARNING
 
-I'm continuously improving my engineering skills and exploring technologies that help build better software.
-
-| Domain | Learning Focus |
-|---|---|
-| Full Stack | Advanced React & Next.js |
-| Backend | Scalable APIs & Architecture |
-| DevOps | Docker & CI/CD |
-| Cloud | AWS & Cloud Infrastructure |
-| Android | React Native & Kotlin |
-| AI | OpenAI Integration & Automation |
-| Database | Advanced SQL & MongoDB |
+| Technology | Learning Focus |
+|:---|:---|
+| React & Next.js | Advanced Frontend |
+| Node.js | Scalable Backend |
+| Docker | Containerization |
+| AWS | Cloud Computing |
+| Linux | System Administration |
+| CI/CD | Deployment Automation |
+| React Native | Mobile Development |
+| AI Integration | Intelligent Applications |
 
 ---
 
-# 💡 MY DEVELOPER PHILOSOPHY
+# 08. 💡 MY DEVELOPER PHILOSOPHY
 
 <div align="center">
 
-<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/THINK-050816?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/DESIGN-102A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEVELOP-164E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TEST-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEPLOY-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SCALE-00D9FF?style=for-the-badge"/>
 
 <br/><br/>
 
-### THE ENGINEERING WORKFLOW
-
-`THINK` → `DESIGN` → `DEVELOP` → `TEST` → `DEPLOY` → `SCALE`
+### "Great software is built with creativity, consistency and engineering."
 
 </div>
 
 ---
 
-# 🤝 LET'S CONNECT
+# 09. 🤝 LET'S CONNECT
 
 <div align="center">
 
-### Let's turn great ideas into powerful digital products.
-
-I'm open to professional opportunities, development collaborations and exciting projects.
+### HAVE AN IDEA? LET'S BUILD SOMETHING AMAZING.
 
 <br/>
 
 <a href="mailto:nihalpandey636@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Nihal-75">
-<img src="https://img.shields.io/badge/GITHUB-Follow_Me-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-developer-sage.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit_Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 <br/><br/>
 
 <a href="https://portfolio-developer-sage.vercel.app/MERN_STACK%20RESUME.pdf">
-<img src="https://img.shields.io/badge/RESUME-View_My_Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/MY_RESUME-VIEW-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -355,12 +267,12 @@ I'm open to professional opportunities, development collaborations and exciting 
 
 <br/><br/>
 
-### ⚡ CODE. CREATE. AUTOMATE. DEPLOY. INNOVATE.
+### ⚡ CODE • CREATE • AUTOMATE • DEPLOY • INNOVATE
 
-**Thanks for visiting my GitHub profile!**
+**THANKS FOR VISITING MY PROFILE!**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:102A43,100:00D9FF&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:102A43,100:00D9FF&height=110&section=footer"/>
 
 </div>
