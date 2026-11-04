@@ -1,17 +1,10 @@
-<!-- =====================================================
-     NIHAl PANDEY | DEVELOPER PORTFOLIO
-     FULL STACK | DEVOPS | ANDROID
-====================================================== -->
-
 <div align="center">
 
-<!-- HERO BANNER -->
+<!-- PREMIUM HERO BANNER - MOBILE ADJUSTED -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=NIHAL%20PANDEY&fontSize=70&fontColor=FFFFFF&color=0:050816,45:102A43,100:7C3AED&stroke=00D9FF&strokeWidth=2&animation=fadeIn&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENGINEER%20%7C%20ANDROID%20DEVELOPER&descSize=14&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=380&text=NIHAL%20PANDEY&fontSize=55&fontColor=FFFFFF&color=0:050816,45:102A43,100:7C3AED&stroke=00D9FF&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENGINEER%20%7C%20ANDROID%20DEVELOPER&descSize=12&descAlignY=72"/>
 
 <br/>
-
-<!-- SOCIAL LINKS -->
 
 <a href="https://github.com/Nihal-75">
 <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
@@ -24,8 +17,6 @@
 </a>
 
 <br/><br/>
-
-<!-- TYPING ANIMATION -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+%26+Cloud+Engineering+%E2%98%81%EF%B8%8F;Android+Application+Developer+%F0%9F%93%B1;Building+Scalable+Digital+Experiences+%F0%9F%9A%80;Turning+Ideas+Into+Real+Products+%E2%9C%A8"/>
 
@@ -324,12 +315,7 @@ I'm continuously improving my engineering skills and exploring technologies that
 
 ### THE ENGINEERING WORKFLOW
 
-<img src="https://img.shields.io/badge/01-THINK-0D1117?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/02-DESIGN-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03-DEVELOP-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/04-TEST-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05-DEPLOY-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/06-SCALE-0D1117?style=for-the-badge"/>
+`THINK` → `DESIGN` → `DEVELOP` → `TEST` → `DEPLOY` → `SCALE`
 
 </div>
 
