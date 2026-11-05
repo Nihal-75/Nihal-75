@@ -1,81 +1,111 @@
-<!-- ==========================================
-     NIHAl PANDEY - PREMIUM GITHUB PROFILE
-     FULL STACK | DEVOPS | ANDROID
-=========================================== -->
+<!-- =====================================================
+     NIHAl PANDEY | CORPORATE DEVELOPER PROFILE
+     FULL STACK | DEVOPS | ANDROID ENGINEERING
+====================================================== -->
 
 <div align="center">
 
-<!-- HERO BANNER -->
+<!-- PREMIUM HERO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=360&text=NIHAL%20PANDEY&fontSize=58&fontColor=FFFFFF&color=0:050816,45:102A43,100:071A3A&stroke=00D9FF&strokeWidth=2&animation=fadeIn&fontAlignY=54&desc=FULL%20STACK%20%7C%20DEVOPS%20%7C%20ANDROID%20ENGINEER&descSize=17&descAlignY=73"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=360&text=NIHAL%20PANDEY&fontSize=58&fontColor=FFFFFF&color=0:050816,45:102A43,100:071A3A&stroke=00D9FF&strokeWidth=2&animation=fadeIn&fontAlignY=54&desc=FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20ENGINEER%20%7C%20ANDROID%20DEVELOPER&descSize=14&descAlignY=73"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Engineering+Scalable+Digital+Solutions;Full+Stack+Web+Developer;DevOps+%26+Cloud+Engineer;Android+Application+Developer;Turning+Ideas+Into+Production+Ready+Products"/>
 
 <br/>
 
 <a href="https://github.com/Nihal-75">
-<img src="https://img.shields.io/badge/GitHub-Nihal--75-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/GITHUB-ENGINEERING_PROFILE-111827?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
-
 <a href="mailto:nihalpandey636@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
-
 <a href="https://portfolio-developer-sage.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://portfolio-developer-sage.vercel.app/MERN_STACK%20RESUME.pdf">
-<img src="https://img.shields.io/badge/Resume-View-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Web%2C+Mobile+%26+Cloud+Solutions;Full+Stack+Developer;DevOps+%26+Cloud+Engineering;Android+Application+Developer"/>
+<img src="https://img.shields.io/badge/ENGINEERING-EXCELLENCE-00D9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/INNOVATION-DRIVEN-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROBLEM-SOLVER-00D9FF?style=flat-square"/>
 
-### ✦ CODE • CREATE • DEPLOY • INNOVATE ✦
+<br/>
+
+### BUILDING TECHNOLOGY. ENGINEERING SOLUTIONS. CREATING IMPACT.
 
 </div>
 
 ---
 
-## 👨‍💻 01. WHO AM I?
+# 01. PROFESSIONAL OVERVIEW
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-### Hi, I'm Nihal Pandey! 👋
-
+### 👨‍💻 Nihal Pandey
 **Full Stack Developer | DevOps Engineer | Android Developer**
 
-I'm a BCA graduate and passionate software developer focused on building modern web applications, scalable backend systems, mobile experiences and reliable deployment workflows.
+I'm a BCA graduate and software developer passionate about engineering modern digital products, scalable web applications, mobile solutions and cloud-ready systems.
 
-I enjoy working across the complete software development lifecycle — from designing user interfaces and developing APIs to managing databases and deploying applications.
+I specialize in building end-to-end applications, developing backend architectures, integrating APIs, managing databases and exploring modern deployment technologies.
 
-**My Expertise:**
+My approach combines clean code, practical problem-solving, user-focused design and continuous technical improvement.
 
-- 💻 Full Stack Web Development (MERN)
-- 📱 Android & Cross-Platform Development
-- ☁️ DevOps & Cloud Engineering
-- 🐳 Linux, Docker & CI/CD
-- 🤖 AI Integration & Automation
-- 🗄️ Database Design & Management
-- ⚡ REST API Development
+### Professional Focus
 
-**My Mission:**
+- **Full Stack Engineering:** Building complete web applications using MERN technologies.
+- **Backend Engineering:** Developing REST APIs, authentication systems and database architectures.
+- **DevOps Engineering:** Exploring Linux, Docker, cloud infrastructure and CI/CD workflows.
+- **Mobile Engineering:** Developing cross-platform mobile applications using React Native.
+- **AI Engineering:** Integrating AI APIs and intelligent automation into applications.
 
-Build scalable applications, automate workflows and continuously grow as a software engineer.
+> Engineering mindset: Design intelligently. Develop efficiently. Deploy confidently.
 
-> Learn continuously. Build intelligently. Deploy confidently.
+---
+
+# 02. ENGINEERING CAPABILITIES
+
+<table>
+<tr>
+<td>
+
+### 💻 FULL STACK ENGINEERING
+
+Building scalable, responsive and modern web applications.
+
+**Core Stack**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql&theme=dark"/>
+
+`Frontend` `Backend` `REST APIs` `Authentication` `Database Design`
 
 </td>
+</tr>
+<tr>
+<td>
 
-<td width="35%" align="center" valign="middle">
+### ☁️ DEVOPS & CLOUD ENGINEERING
 
-<img src="https://media2.giphy.com/media/HqWU6NTLNLzg2Qf5rH/giphy.gif" width="200" alt="Developer Animation"/>
+Exploring infrastructure, application deployment and automation.
 
-<br/><br/>
+**Core Stack**
 
-<img src="https://img.shields.io/badge/BUILDING-REAL_WORLD_SOLUTIONS-00D9FF?style=for-the-badge&labelColor=050816"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,bash,githubactions,git&theme=dark"/>
+
+`Linux` `Docker` `AWS` `CI/CD` `Cloud Deployment`
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 📱 ANDROID & MOBILE ENGINEERING
+
+Building modern mobile interfaces and application experiences.
+
+**Core Stack**
+
+<img src="https://skillicons.dev/icons?i=react,android,kotlin,java&theme=dark"/>
+
+`React Native` `Android` `Java` `Kotlin` `API Integration`
 
 </td>
 </tr>
@@ -83,208 +113,189 @@ Build scalable applications, automate workflows and continuously grow as a softw
 
 ---
 
-## 🚀 02. CORE EXPERTISE
+# 03. TECHNICAL ARSENAL
 
-<table>
-<tr>
-<td width="33%" align="center">
+### 🎨 Frontend Technologies
 
-### 💻
-
-**FULL STACK DEVELOPMENT**
-
-MERN Stack
-
-React • Node.js • Express • MongoDB
-
-</td>
-
-<td width="33%" align="center">
-
-### 📱
-
-**ANDROID DEVELOPMENT**
-
-Mobile Applications
-
-React Native • Java • Kotlin
-
-</td>
-
-<td width="33%" align="center">
-
-### ☁️
-
-**DEVOPS ENGINEERING**
-
-Cloud & Infrastructure
-
-Linux • Docker • AWS • CI/CD
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ 03. MY TECH ARSENAL
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-### 🎨 Frontend
-
+<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=4&theme=dark"/>
+</div>
 
-</td>
+### ⚙️ Backend Technologies
 
-<td width="25%" valign="top">
-
-### ⚙️ Backend
-
+<div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,python&perline=4&theme=dark"/>
+</div>
 
-</td>
+### 📱 Mobile Technologies
 
-<td width="25%" valign="top">
-
-### 📱 Mobile
-
+<div align="center">
 <img src="https://skillicons.dev/icons?i=android,kotlin,java,react&perline=4&theme=dark"/>
+</div>
 
-</td>
+### 🗄️ Database & Storage
 
-<td width="25%" valign="top">
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=4&theme=dark"/>
+</div>
 
-### 🗄️ Database
+### ☁️ DevOps & Cloud Infrastructure
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3&theme=dark"/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,bash,githubactions,git,github&perline=4&theme=dark"/>
+</div>
 
-</td>
-</tr>
+### 🧰 Tools & Development Workflow
 
-<tr>
-<td colspan="2" valign="top">
-
-### ☁️ DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,bash,githubactions&perline=5&theme=dark"/>
-
-</td>
-
-<td colspan="2" valign="top">
-
-### 🔧 Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,git,github&perline=5&theme=dark"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,git,github&perline=4&theme=dark"/>
+</div>
 
 ---
 
-## 🏆 04. FEATURED PROJECTS
+# 04. SELECTED PROJECT PORTFOLIO
+
+### 🩸 01. Blood Bank Management System
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🩸 Blood Bank Management System
+**Project Overview**
 
-A complete platform for blood donation and blood bank management.
+A digital platform designed to simplify blood donation management, donor information and blood availability.
 
-**Features:**
+**Key Features**
 - Donor Management
 - Blood Group Management
 - Donation Records
-- Admin Dashboard
+- Administrative Dashboard
 
-`MERN Stack` `MongoDB` `REST API`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏥 Pathology Management System
-
-A web-based pathology management application.
-
-**Features:**
-- Patient Management
-- Test Management
-- Report Management
-- Admin Dashboard
+**Technology Stack**
 
 `React` `Node.js` `Express` `MongoDB`
 
 </td>
 </tr>
+</table>
 
+### 🏥 02. Pathology Management System
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🎓 College ERP Management System
+**Project Overview**
 
-A centralized college management platform.
+A web-based pathology management application for managing patient records, laboratory tests and medical reports.
 
-**Features:**
-- Admission Management
-- Faculty Management
-- Hostel & Library
-- Fee & Accounts
-- Excel Upload
+**Key Features**
+- Patient Registration
+- Test Management
+- Report Management
+- Admin Dashboard
 
-`MERN Stack` `Tailwind CSS`
+**Technology Stack**
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🚪 AI-Based Gate Entry QR System
-
-A smart QR-based entry management platform.
-
-**Features:**
-- QR Code Generation
-- OTP Verification
-- Face Recognition Integration
-- Entry Management
-
-`MERN Stack` `QR Code` `AI`
+`MERN Stack` `Tailwind CSS` `MongoDB`
 
 </td>
 </tr>
+</table>
 
+### 🎓 03. College ERP Management System
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🍽️ Food Coupon QR System
+**Project Overview**
 
-A digital food coupon management platform.
+A centralized college management platform designed to streamline academic and administrative operations.
 
-**Features:**
-- Digital QR Coupons
-- Vendor Scanner
-- Three-Scan Restriction
-- Student Verification
+**Key Features**
+- Admission Management
+- Faculty Management
+- Hostel Management
+- Library Management
+- Fees & Accounts
+- Excel Data Upload
 
-`MERN Stack` `QR Code` `AI`
+**Technology Stack**
+
+`React` `Node.js` `Express` `MongoDB`
 
 </td>
+</tr>
+</table>
 
-<td width="50%" valign="top">
+### 🚪 04. AI-Based Gate Entry QR System
 
-### 💼 Job Portal Application
+<table>
+<tr>
+<td>
 
-A recruitment platform connecting candidates and recruiters.
+**Project Overview**
 
-**Features:**
+A QR-based entry management solution with digital registration and verification features.
+
+**Key Features**
+- QR Code Generation
+- OTP Verification
+- Face Recognition Integration
+- Digital Entry Management
+
+**Technology Stack**
+
+`MERN Stack` `QR Code` `AI Integration`
+
+</td>
+</tr>
+</table>
+
+### 🍽️ 05. Food Coupon QR System
+
+<table>
+<tr>
+<td>
+
+**Project Overview**
+
+A digital food coupon management platform designed to simplify student food distribution.
+
+**Key Features**
+- Digital QR Coupons
+- Vendor Scanner
+- Three-Scan Usage Restriction
+- Student Verification
+- Face Detection Integration
+
+**Technology Stack**
+
+`MERN Stack` `QR Code` `AI Integration`
+
+</td>
+</tr>
+</table>
+
+### 💼 06. Job Portal Application
+
+<table>
+<tr>
+<td>
+
+**Project Overview**
+
+A recruitment platform connecting job seekers and recruiters through an organized hiring workflow.
+
+**Key Features**
 - Job Search
-- Applications
+- Job Applications
+- Candidate Management
 - Admin Dashboard
 - Interview Scheduling
+
+**Technology Stack**
 
 `React` `Node.js` `MongoDB` `JWT`
 
@@ -295,125 +306,146 @@ A recruitment platform connecting candidates and recruiters.
 <div align="center">
 
 <a href="https://github.com/Nihal-75?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=050816"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT_PORTFOLIO-00D9FF?style=for-the-badge&logo=github&logoColor=050816"/>
 </a>
 
 </div>
 
 ---
 
-## 📊 05. GITHUB PERFORMANCE
+# 05. SOFTWARE ENGINEERING WORKFLOW
 
 <div align="center">
 
-### ⚡ GitHub Statistics
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nihal-75&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=050816" alt="GitHub Statistics"/>
-
-<br/><br/>
-
-### 💻 Most Used Languages
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-75&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=050816" alt="Most Used Languages"/>
-
-<br/><br/>
-
-### 🔥 Contribution Streak
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=Nihal-75&theme=transparent&hide_border=true&background=050816&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak"/>
+<img src="https://img.shields.io/badge/01-REQUIREMENTS-050816?style=for-the-badge"/>
+<br/>⬇️
+<img src="https://img.shields.io/badge/02-ARCHITECTURE-102A43?style=for-the-badge"/>
+<br/>⬇️
+<img src="https://img.shields.io/badge/03-DEVELOPMENT-164E63?style=for-the-badge"/>
+<br/>⬇️
+<img src="https://img.shields.io/badge/04-TESTING-4338CA?style=for-the-badge"/>
+<br/>⬇️
+<img src="https://img.shields.io/badge/05-DEPLOYMENT-7C3AED?style=for-the-badge"/>
+<br/>⬇️
+<img src="https://img.shields.io/badge/06-MAINTENANCE-00D9FF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 📈 06. CONTRIBUTION ACTIVITY
+# 06. GITHUB PERFORMANCE & ANALYTICS
 
 <div align="center">
 
-### My GitHub Contribution Graph
+### 📊 DEVELOPMENT STATISTICS
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nihal-75&bg_color=050816&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Nihal%20Pandey%20Contribution%20Activity" alt="Contribution Activity Graph"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nihal-75&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=050816"/>
 
-<br/><br/>
+<br/>
 
-### Contribution Calendar
+### 💻 MOST USED LANGUAGES
 
-<img width="100%" src="https://ghchart.rshah.org/00D9FF/Nihal-75" alt="GitHub Contribution Calendar"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal-75&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=050816"/>
+
+<br/>
+
+### 🔥 CONTRIBUTION STREAK
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=Nihal-75&theme=transparent&hide_border=true&background=050816&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=FFFFFF"/>
 
 </div>
 
 ---
 
-## 🎯 07. CURRENT LEARNING JOURNEY
+# 07. CONTRIBUTION ACTIVITY
 
-| Technology | Learning Focus |
+<div align="center">
+
+### DEVELOPMENT CONSISTENCY
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nihal-75&bg_color=050816&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+
+<br/>
+
+### GITHUB CONTRIBUTION CALENDAR
+
+<img width="100%" src="https://ghchart.rshah.org/00D9FF/Nihal-75"/>
+
+</div>
+
+---
+
+# 08. CONTINUOUS LEARNING & DEVELOPMENT
+
+| Engineering Domain | Focus Area |
 |:---|:---|
-| React & Next.js | Advanced Frontend |
-| Node.js | Scalable Backend |
-| Docker | Containerization |
-| AWS | Cloud Computing |
-| Linux | System Administration |
-| CI/CD | Deployment Automation |
-| React Native | Android Development |
-| AI Integration | Intelligent Applications |
+| Frontend Engineering | React.js, Next.js |
+| Backend Engineering | Node.js, Express.js |
+| Database Engineering | MongoDB, MySQL |
+| DevOps Engineering | Docker, Linux, CI/CD |
+| Cloud Engineering | AWS |
+| Mobile Engineering | React Native, Android |
+| AI Engineering | OpenAI API, Automation |
 
 ---
 
-## 💡 08. MY DEVELOPER PHILOSOPHY
+# 09. PROFESSIONAL PRINCIPLES
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-THINK-050816?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02-DESIGN-102A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03-DEVELOP-164E63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/04-TEST-4338CA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05-DEPLOY-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/06-SCALE-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CLEAN_CODE-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SCALABLE_SYSTEMS-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INNOVATION-7C3AED?style=for-the-badge"/>
 
 <br/><br/>
 
-### "Great software is built with creativity, consistency and engineering."
+### "Build systems that solve problems, scale with growth and create value."
 
 </div>
 
 ---
 
-## 🤝 09. LET'S CONNECT
+# 10. LET'S CONNECT
 
 <div align="center">
 
-### Have an idea? Let's build something extraordinary.
+### LET'S BUILD SOMETHING EXTRAORDINARY.
+
+Available for professional opportunities, development collaborations and innovative projects.
+
+<br/>
 
 <a href="mailto:nihalpandey636@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL_ME-00D9FF?style=for-the-badge&logo=gmail&logoColor=050816"/>
+<img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Nihal-75">
-<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=050816"/>
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-developer-sage.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=050816"/>
 </a>
 
 <br/><br/>
 
 <a href="https://portfolio-developer-sage.vercel.app/MERN_STACK%20RESUME.pdf">
-<img src="https://img.shields.io/badge/VIEW_MY_RESUME-161B22?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VIEW_MY_RESUME-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nihal-75&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Nihal-75&style=for-the-badge&color=00D9FF&label=PROFILE+VISITORS"/>
 
 <br/><br/>
 
-### ⚡ CODE • BUILD • DEPLOY • SCALE • INNOVATE
+### ⚡ ENGINEER • BUILD • AUTOMATE • DEPLOY • SCALE
 
-**Thanks for visiting my GitHub profile!**
+**Thank you for visiting my GitHub profile.**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:050816&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:102A43,100:00D9FF&height=130&section=footer"/>
 
 </div>
